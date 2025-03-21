@@ -20,8 +20,8 @@ Welcome to the **Aalto Machine Learning Research Group**, led by [Professor Alex
   _Tenured Associate Professor, Aalto University_
 
 ### Post-Doctoral Researchers
-- **[Postdoc Name 1]**  
-  _Research Focus: [To be updated]_  
+- [**Homer Simpson**](/postdoc1/) <br>
+  Research Focus: Nuclear Power Plants and donuts <br>
   Email: [To be updated]
 
 - **[Postdoc Name 2]**  
