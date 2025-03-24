@@ -15,9 +15,9 @@ Welcome to the **Aalto Machine Learning Research Group**, led by [Professor Alex
   _Tenured Associate Professor, Aalto University_
 
 ### Post-Doctoral Researchers
-- **[Postdoc Name 1]**  
-  _Research Focus: [To be updated]_  
-  Email: [To be updated]
+- **[Konstantina Olioumtsevits](index-KO.md)**  
+  _Research Focus: Making machine learning accessible and understandable_  
+  Email: [konstantina.olioumtsevits@aalto.fi](https://www.aalto.fi/en/people/konstantina-olioumtsevits)
 
 - **[Postdoc Name 2]**  
   _Research Focus: [To be updated]_  
